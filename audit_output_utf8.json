@@ -1,0 +1,4910 @@
+﻿{
+  "stats": {
+    "total": 172,
+    "paid": 118,
+    "pending": 54,
+    "checkedIn": 93,
+    "categoryStats": [
+      {
+        "_id": "Visitor",
+        "count": 60
+      },
+      {
+        "_id": "Participation",
+        "count": 27
+      },
+      {
+        "_id": "Team",
+        "count": 15
+      },
+      {
+        "_id": "Individual",
+        "count": 10
+      },
+      {
+        "_id": null,
+        "count": 6
+      }
+    ],
+    "dailyRegistrations": []
+  },
+  "growth": {
+    "kpis": {
+      "registrations": {
+        "total": 172,
+        "paid": 118,
+        "checkedIn": 93,
+        "conversionRate": 68.6,
+        "attendanceRate": 78.8,
+        "momGrowth": -100
+      },
+      "revenue": {
+        "total": 17904,
+        "momGrowth": -100
+      },
+      "students": {
+        "total": 2,
+        "approved": 2,
+        "pending": 0,
+        "momGrowth": -100
+      },
+      "ambassadors": {
+        "total": 3,
+        "totalPoints": 60,
+        "totalReferrals": 0,
+        "momGrowth": 100
+      },
+      "sessions": {
+        "total": 0,
+        "audienceReached": 0,
+        "momGrowth": 0
+      },
+      "leads": {
+        "total": 3,
+        "momGrowth": -100
+      }
+    },
+    "timeline": [
+      {
+        "month": "2026-01",
+        "newRegistrations": 0,
+        "cumulativeRegistrations": 0,
+        "newRevenue": 0,
+        "cumulativeRevenue": 0,
+        "newStudentSignups": 0,
+        "cumulativeStudentSignups": 0,
+        "newAmbassadors": 0,
+        "cumulativeAmbassadors": 0,
+        "newInstitutes": 0,
+        "cumulativeInstitutes": 0,
+        "newSessions": 0,
+        "cumulativeSessions": 0,
+        "studentsReached": 0,
+        "newLeads": 0,
+        "cumulativeLeads": 0
+      },
+      {
+        "month": "2026-02",
+        "newRegistrations": 58,
+        "cumulativeRegistrations": 58,
+        "newRevenue": 5200,
+        "cumulativeRevenue": 5200,
+        "newStudentSignups": 0,
+        "cumulativeStudentSignups": 0,
+        "newAmbassadors": 0,
+        "cumulativeAmbassadors": 0,
+        "newInstitutes": 0,
+        "cumulativeInstitutes": 0,
+        "newSessions": 0,
+        "cumulativeSessions": 0,
+        "studentsReached": 0,
+        "newLeads": 0,
+        "cumulativeLeads": 0
+      },
+      {
+        "month": "2026-03",
+        "newRegistrations": 108,
+        "cumulativeRegistrations": 166,
+        "newRevenue": 10550,
+        "cumulativeRevenue": 15750,
+        "newStudentSignups": 0,
+        "cumulativeStudentSignups": 0,
+        "newAmbassadors": 0,
+        "cumulativeAmbassadors": 0,
+        "newInstitutes": 0,
+        "cumulativeInstitutes": 0,
+        "newSessions": 0,
+        "cumulativeSessions": 0,
+        "studentsReached": 0,
+        "newLeads": 0,
+        "cumulativeLeads": 0
+      },
+      {
+        "month": "2026-04",
+        "newRegistrations": 0,
+        "cumulativeRegistrations": 166,
+        "newRevenue": 0,
+        "cumulativeRevenue": 15750,
+        "newStudentSignups": 0,
+        "cumulativeStudentSignups": 0,
+        "newAmbassadors": 0,
+        "cumulativeAmbassadors": 0,
+        "newInstitutes": 1,
+        "cumulativeInstitutes": 1,
+        "newSessions": 0,
+        "cumulativeSessions": 0,
+        "studentsReached": 0,
+        "newLeads": 0,
+        "cumulativeLeads": 0
+      },
+      {
+        "month": "2026-05",
+        "newRegistrations": 6,
+        "cumulativeRegistrations": 172,
+        "newRevenue": 2154,
+        "cumulativeRevenue": 17904,
+        "newStudentSignups": 2,
+        "cumulativeStudentSignups": 2,
+        "newAmbassadors": 1,
+        "cumulativeAmbassadors": 1,
+        "newInstitutes": 1,
+        "cumulativeInstitutes": 2,
+        "newSessions": 0,
+        "cumulativeSessions": 0,
+        "studentsReached": 0,
+        "newLeads": 3,
+        "cumulativeLeads": 3
+      },
+      {
+        "month": "2026-06",
+        "newRegistrations": 0,
+        "cumulativeRegistrations": 172,
+        "newRevenue": 0,
+        "cumulativeRevenue": 17904,
+        "newStudentSignups": 0,
+        "cumulativeStudentSignups": 2,
+        "newAmbassadors": 2,
+        "cumulativeAmbassadors": 3,
+        "newInstitutes": 0,
+        "cumulativeInstitutes": 2,
+        "newSessions": 0,
+        "cumulativeSessions": 0,
+        "studentsReached": 0,
+        "newLeads": 0,
+        "cumulativeLeads": 3
+      }
+    ],
+    "breakdowns": {
+      "topColleges": [
+        {
+          "college": "S.D. College of Engineering and Technology",
+          "count": 1
+        },
+        {
+          "college": "Dr. A. P. J. Abdul Kalam Technical University",
+          "count": 1
+        }
+      ],
+      "categories": [
+        {
+          "category": "Visitor",
+          "count": 60
+        },
+        {
+          "category": "Participation",
+          "count": 27
+        },
+        {
+          "category": "Team",
+          "count": 15
+        },
+        {
+          "category": "Individual",
+          "count": 10
+        },
+        {
+          "category": "General/Other",
+          "count": 6
+        }
+      ],
+      "instituteTypes": [
+        {
+          "type": "School",
+          "count": 1
+        },
+        {
+          "type": "College",
+          "count": 1
+        }
+      ],
+      "sessionStatus": [],
+      "leadSources": [
+        {
+          "source": "join",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "sessions": {
+    "bookings": []
+  },
+  "activities": {
+    "ok": true,
+    "activities": [
+      {
+        "_id": "6a2ecc55b5592047040f5174",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_b5e132fe8f764a59be5c314503c42418",
+        "ipAddress": "::1",
+        "userAgent": "node",
+        "metadata": {
+          "deviceHash": "4a9e43dc8cfbafde8685817cda60c907be34f14e3305554a4a0f358fd5c41724",
+          "deviceLabel": "Unknown Browser on Unknown OS",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "operatorName": "System Admin"
+        },
+        "createdAt": "2026-06-14T15:44:21.730Z"
+      },
+      {
+        "_id": "6a2ecc54b5592047040f5171",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_b5e132fe8f764a59be5c314503c42418",
+        "ipAddress": "::1",
+        "userAgent": "node",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "node",
+          "deviceHash": "4a9e43dc8cfbafde8685817cda60c907be34f14e3305554a4a0f358fd5c41724",
+          "deviceLabel": "Unknown Browser on Unknown OS",
+          "browser": "Unknown Browser",
+          "platform": "Unknown OS",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "employeeEmail": "admin@techmnhub.com",
+          "operatorName": "System Admin",
+          "sessionId": "sess_b5e132fe8f764a59be5c314503c42418",
+          "jti": "jti_6e6bc282dd54414f964fc80042402fc4"
+        },
+        "createdAt": "2026-06-14T15:44:20.339Z"
+      },
+      {
+        "_id": "6a2ec263f77728451f89b281",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_65e63355be8a4cc58bc17afc15b8d7fb",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-14T15:01:55.978Z"
+      },
+      {
+        "_id": "6a2ec09e159a0add64ec6d6f",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_188a58f1607f489eaf82675eada8ec01",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows"
+        },
+        "createdAt": "2026-06-14T14:54:22.273Z"
+      },
+      {
+        "_id": "6a2ec09e159a0add64ec6d6c",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_188a58f1607f489eaf82675eada8ec01",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_188a58f1607f489eaf82675eada8ec01",
+          "jti": "jti_dfca0fb39e8b4728858da6598cd5a854"
+        },
+        "createdAt": "2026-06-14T14:54:22.148Z"
+      },
+      {
+        "_id": "6a2e89d4bcddf63727e010c3",
+        "actorUserId": "ADMIN-2026",
+        "actorRole": "admin",
+        "action": "profile_update",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "employeeId": "MN-INT-2026-005",
+          "employeeName": "Priyansh Tyagi",
+          "adminAccess": true
+        },
+        "createdAt": "2026-06-14T11:00:36.308Z"
+      },
+      {
+        "_id": "6a2e89a7bcddf63727e010b7",
+        "actorUserId": "ADMIN-2026",
+        "actorRole": "admin",
+        "action": "profile_update",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "employeeId": "MN-INT-2026-005",
+          "employeeName": "Priyansh Tyagi",
+          "adminAccess": true
+        },
+        "createdAt": "2026-06-14T10:59:51.878Z"
+      },
+      {
+        "_id": "6a2e88fe2a6a86ba437c335b",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_65e63355be8a4cc58bc17afc15b8d7fb",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows"
+        },
+        "createdAt": "2026-06-14T10:57:02.633Z"
+      },
+      {
+        "_id": "6a2e88fe2a6a86ba437c3358",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_65e63355be8a4cc58bc17afc15b8d7fb",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_65e63355be8a4cc58bc17afc15b8d7fb",
+          "jti": "jti_d1bf1ec53f3f4b9080ef88e4eb437523"
+        },
+        "createdAt": "2026-06-14T10:57:02.466Z"
+      },
+      {
+        "_id": "6a2e88f72a6a86ba437c3354",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:55.644Z"
+      },
+      {
+        "_id": "6a2e88f72a6a86ba437c3350",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:55.382Z"
+      },
+      {
+        "_id": "6a2e88ee2a6a86ba437c334c",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:46.958Z"
+      },
+      {
+        "_id": "6a2e88ee2a6a86ba437c3348",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:46.289Z"
+      },
+      {
+        "_id": "6a2e88eb2a6a86ba437c3344",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:43.685Z"
+      },
+      {
+        "_id": "6a2e88ea2a6a86ba437c3340",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:42.386Z"
+      },
+      {
+        "_id": "6a2e88e12a6a86ba437c333c",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:33.216Z"
+      },
+      {
+        "_id": "6a2e88e12a6a86ba437c333a",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:33.212Z"
+      },
+      {
+        "_id": "6a2e88e12a6a86ba437c3338",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:33.196Z"
+      },
+      {
+        "_id": "6a2e88e12a6a86ba437c3336",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:33.186Z"
+      },
+      {
+        "_id": "6a2e88df2a6a86ba437c332c",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:31.977Z"
+      },
+      {
+        "_id": "6a2e88df2a6a86ba437c332a",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:31.976Z"
+      },
+      {
+        "_id": "6a2e88df2a6a86ba437c3328",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:31.954Z"
+      },
+      {
+        "_id": "6a2e88df2a6a86ba437c3326",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "revoked_by_admin",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-14T10:56:31.952Z"
+      },
+      {
+        "_id": "6a2e88df2a6a86ba437c3322",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "revoked_by_admin",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-14T10:56:31.881Z"
+      },
+      {
+        "_id": "6a2d52edea712779d4faa88b",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked_all",
+        "targetSessionId": "",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "targetUserId": "69e8ff2899722e89e6126e7c",
+          "revokedCount": 0,
+          "reason": "Institute account deleted by administrator"
+        },
+        "createdAt": "2026-06-13T12:54:05.431Z"
+      },
+      {
+        "_id": "6a2d52eaea712779d4faa87c",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked_all",
+        "targetSessionId": "",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "targetUserId": "69ff1a398711a762d63dd039",
+          "revokedCount": 0,
+          "reason": "Institute account deleted by administrator"
+        },
+        "createdAt": "2026-06-13T12:54:02.431Z"
+      },
+      {
+        "_id": "6a2d52dbea712779d4faa85d",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_4fef814b237449e89af146ac96c08d97",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "admin:ADMIN-2026",
+          "targetRole": "admin"
+        },
+        "createdAt": "2026-06-13T12:53:47.805Z"
+      },
+      {
+        "_id": "6a2d52dbea712779d4faa85f",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_d98b315620e949c889e72d50b505aeb0",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-13T12:53:47.805Z"
+      },
+      {
+        "_id": "6a2d52dbea712779d4faa85b",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_8854276df3bf4c328bebd97289255c98",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-13T12:53:47.804Z"
+      },
+      {
+        "_id": "6a2d52dbea712779d4faa859",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_6b536ea9a37242529ba860e017148b98",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-13T12:53:47.801Z"
+      },
+      {
+        "_id": "6a2d5085ea712779d4faa7e2",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows"
+        },
+        "createdAt": "2026-06-13T12:43:49.330Z"
+      },
+      {
+        "_id": "6a2d5085ea712779d4faa7df",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_e400fbefebfd4ff384fb9ea155680730",
+          "jti": "jti_c8285dbf00a74e45a4be8f715420dcba"
+        },
+        "createdAt": "2026-06-13T12:43:49.217Z"
+      },
+      {
+        "_id": "6a2d4abefb3dde5980dff8ea",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_d98b315620e949c889e72d50b505aeb0",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows"
+        },
+        "createdAt": "2026-06-13T12:19:10.673Z"
+      },
+      {
+        "_id": "6a2d4abefb3dde5980dff8e7",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_d98b315620e949c889e72d50b505aeb0",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_d98b315620e949c889e72d50b505aeb0",
+          "jti": "jti_c6a35afef9624034a7f3fa2bc694abd0"
+        },
+        "createdAt": "2026-06-13T12:19:10.523Z"
+      },
+      {
+        "_id": "6a2d48d2927ca4adc62525f7",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_6b536ea9a37242529ba860e017148b98",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows"
+        },
+        "createdAt": "2026-06-13T12:10:58.431Z"
+      },
+      {
+        "_id": "6a2d48d2927ca4adc62525e1",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_6b536ea9a37242529ba860e017148b98",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_6b536ea9a37242529ba860e017148b98",
+          "jti": "jti_b77a31f342e04051a99a24bf7f408ce1"
+        },
+        "createdAt": "2026-06-13T12:10:58.006Z"
+      },
+      {
+        "_id": "6a2ce2f935360a38a5f5a15f",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "admin",
+        "action": "login_success",
+        "targetSessionId": "sess_4fef814b237449e89af146ac96c08d97",
+        "ipAddress": "152.59.88.183",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+        "metadata": {
+          "deviceHash": "e96274d993e757b311a08e3ef1466d4b56b2f6ad38fb173103ba4720ce88749e",
+          "deviceLabel": "Chrome on Android",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "operatorName": "Sikhiya"
+        },
+        "createdAt": "2026-06-13T04:56:25.882Z"
+      },
+      {
+        "_id": "6a2ce2f935360a38a5f5a15c",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "admin",
+        "action": "session_created",
+        "targetSessionId": "sess_4fef814b237449e89af146ac96c08d97",
+        "ipAddress": "152.59.88.183",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+        "metadata": {
+          "ipAddress": "152.59.88.183",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+          "deviceHash": "e96274d993e757b311a08e3ef1466d4b56b2f6ad38fb173103ba4720ce88749e",
+          "deviceLabel": "Chrome on Android",
+          "browser": "Chrome",
+          "platform": "Android",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "IN",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "employeeEmail": "admin@techmnhub.in",
+          "operatorName": "Sikhiya",
+          "sessionId": "sess_4fef814b237449e89af146ac96c08d97",
+          "jti": "jti_a085da527ae7466bad76a36e7b6fe965"
+        },
+        "createdAt": "2026-06-13T04:56:25.730Z"
+      },
+      {
+        "_id": "6a2c244d2c2479e160ce2d25",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_8854276df3bf4c328bebd97289255c98",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows"
+        },
+        "createdAt": "2026-06-12T15:22:53.676Z"
+      },
+      {
+        "_id": "6a2c244d2c2479e160ce2d0e",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_8854276df3bf4c328bebd97289255c98",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_8854276df3bf4c328bebd97289255c98",
+          "jti": "jti_1838346c0222478191064ba862677546"
+        },
+        "createdAt": "2026-06-12T15:22:53.174Z"
+      },
+      {
+        "_id": "6a2c0d7da43fb195ea14466f",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:45:33.436Z"
+      },
+      {
+        "_id": "6a2c0d7ba43fb195ea14466b",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:45:31.990Z"
+      },
+      {
+        "_id": "6a2c0d65a43fb195ea144667",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:45:09.930Z"
+      },
+      {
+        "_id": "6a2c0d64a43fb195ea144663",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:45:08.395Z"
+      },
+      {
+        "_id": "6a2c0d4fa43fb195ea14465f",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:44:47.583Z"
+      },
+      {
+        "_id": "6a2c0d47a43fb195ea14465b",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:44:39.577Z"
+      },
+      {
+        "_id": "6a2c0d47a43fb195ea144659",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:44:39.511Z"
+      },
+      {
+        "_id": "6a2c0d46a43fb195ea144653",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:44:38.213Z"
+      },
+      {
+        "_id": "6a2c0d46a43fb195ea144651",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:44:38.099Z"
+      },
+      {
+        "_id": "6a2c0d44a43fb195ea144649",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:44:36.193Z"
+      },
+      {
+        "_id": "6a2c0d42a43fb195ea144645",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:44:34.760Z"
+      },
+      {
+        "_id": "6a2c0d25a43fb195ea144641",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:44:05.574Z"
+      },
+      {
+        "_id": "6a2c0d25a43fb195ea14463e",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:44:05.407Z"
+      },
+      {
+        "_id": "6a2c0d0ea43fb195ea144639",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:43:42.327Z"
+      },
+      {
+        "_id": "6a2c0d0ea43fb195ea144637",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:43:42.000Z"
+      },
+      {
+        "_id": "6a2c0cd6a43fb195ea14462f",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:42:46.247Z"
+      },
+      {
+        "_id": "6a2c0cd5a43fb195ea14462b",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:42:45.849Z"
+      },
+      {
+        "_id": "6a2c0cd5a43fb195ea144627",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:42:45.343Z"
+      },
+      {
+        "_id": "6a2c0cd4a43fb195ea144623",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:42:44.965Z"
+      },
+      {
+        "_id": "6a2c0cd3a43fb195ea14461f",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:42:43.045Z"
+      },
+      {
+        "_id": "6a2c0cd2a43fb195ea14461b",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:42:42.223Z"
+      },
+      {
+        "_id": "6a2c0cd0a43fb195ea144617",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:42:40.424Z"
+      },
+      {
+        "_id": "6a2c0ccea43fb195ea144613",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:42:38.585Z"
+      },
+      {
+        "_id": "6a2c0ccda43fb195ea14460f",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:42:37.181Z"
+      },
+      {
+        "_id": "6a2c0ccda43fb195ea14460d",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:42:37.154Z"
+      },
+      {
+        "_id": "6a2c0ccba43fb195ea144607",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T13:42:35.540Z"
+      },
+      {
+        "_id": "6a2c0cc9a43fb195ea144603",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T13:42:33.581Z"
+      },
+      {
+        "_id": "6a2c0c7ba43fb195ea1445a1",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows"
+        },
+        "createdAt": "2026-06-12T13:41:15.649Z"
+      },
+      {
+        "_id": "6a2c0c7ba43fb195ea14459e",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+          "jti": "jti_dddcc56468a74ad59b8933c78c3f33d1"
+        },
+        "createdAt": "2026-06-12T13:41:15.192Z"
+      },
+      {
+        "_id": "6a2bbbbea43fb195ea14459a",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_dc185ba4294d4736b65eef3b19867b96",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T07:56:46.620Z"
+      },
+      {
+        "_id": "6a2bbbbea43fb195ea144596",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_dc185ba4294d4736b65eef3b19867b96",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T07:56:46.443Z"
+      },
+      {
+        "_id": "6a2bbbbca43fb195ea144592",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_dc185ba4294d4736b65eef3b19867b96",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T07:56:44.368Z"
+      },
+      {
+        "_id": "6a2bbbbba43fb195ea14458e",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_dc185ba4294d4736b65eef3b19867b96",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T07:56:43.179Z"
+      },
+      {
+        "_id": "6a2bbbb8a43fb195ea14458a",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_4727831ccb00470a9f933116e01d1fcd",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "employee"
+        },
+        "createdAt": "2026-06-12T07:56:40.502Z"
+      },
+      {
+        "_id": "6a2bbbb8a43fb195ea144585",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_53d028264c034d1da4919f9b786be898",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T07:56:40.251Z"
+      },
+      {
+        "_id": "6a2bbbb8a43fb195ea144580",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_f5a5687c1ede47d0b87dc3583551d537",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T07:56:40.010Z"
+      },
+      {
+        "_id": "6a2bbbb7a43fb195ea14457b",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_be059c64c4d94fd58ae5df35bb35cd55",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T07:56:39.772Z"
+      },
+      {
+        "_id": "6a2bbbb7a43fb195ea144576",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_8f8668a3f4944e6388a22e44fdf557bc",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T07:56:39.522Z"
+      },
+      {
+        "_id": "6a2bbbb7a43fb195ea144571",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_70253e75651c4403a42b1573eec1524b",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T07:56:39.279Z"
+      },
+      {
+        "_id": "6a2bbbb7a43fb195ea14456c",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_55730d6561744c5896a165a7e5a6bedf",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T07:56:39.044Z"
+      },
+      {
+        "_id": "6a2bbbb6a43fb195ea144567",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_29e4a64e370a435f9d304a58845baeb3",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T07:56:38.814Z"
+      },
+      {
+        "_id": "6a2bbbb6a43fb195ea144562",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_5ab40a05d2e244f1b8878d5b559ea999",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T07:56:38.570Z"
+      },
+      {
+        "_id": "6a2bbbb6a43fb195ea14455d",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_813c2386619e47d1a4377fce2f4bf40e",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T07:56:38.332Z"
+      },
+      {
+        "_id": "6a2bbbb6a43fb195ea144558",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_fbd53337f8344ca8b9eefff94b53c79e",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T07:56:38.090Z"
+      },
+      {
+        "_id": "6a2bbbb5a43fb195ea144553",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_d0e797a544f34e0a8fcd48e9dd232c83",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T07:56:37.835Z"
+      },
+      {
+        "_id": "6a2bbbb5a43fb195ea14454e",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_bab374ebe5f64df4b9f1fd548aefe10a",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T07:56:37.571Z"
+      },
+      {
+        "_id": "6a2bbbb5a43fb195ea144549",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_dc185ba4294d4736b65eef3b19867b96",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "employee:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-12T07:56:37.299Z"
+      },
+      {
+        "_id": "6a2bbb09a43fb195ea144533",
+        "actorUserId": "admin",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "",
+        "metadata": {
+          "reason": "missing_session_context",
+          "revokeReason": "",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T07:53:45.597Z"
+      },
+      {
+        "_id": "6a2bb3e5a43fb195ea1443f2",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_bab374ebe5f64df4b9f1fd548aefe10a",
+        "ipAddress": "::1",
+        "userAgent": "",
+        "metadata": {
+          "deviceHash": "aa8236319d1aa48222b5544b9e9c0be00360c3d0b4e81806baa671fd69cf7024",
+          "deviceLabel": "Unknown Browser on Unknown OS"
+        },
+        "createdAt": "2026-06-12T07:23:17.993Z"
+      },
+      {
+        "_id": "6a2bb3e5a43fb195ea1443f0",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_bab374ebe5f64df4b9f1fd548aefe10a",
+        "ipAddress": "::1",
+        "userAgent": "",
+        "metadata": {
+          "distinctDeviceCount": 3
+        },
+        "createdAt": "2026-06-12T07:23:17.895Z"
+      },
+      {
+        "_id": "6a2bb3e5a43fb195ea1443ed",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_bab374ebe5f64df4b9f1fd548aefe10a",
+        "ipAddress": "::1",
+        "userAgent": "",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "",
+          "deviceHash": "aa8236319d1aa48222b5544b9e9c0be00360c3d0b4e81806baa671fd69cf7024",
+          "deviceLabel": "Unknown Browser on Unknown OS",
+          "browser": "Unknown Browser",
+          "platform": "Unknown OS",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_bab374ebe5f64df4b9f1fd548aefe10a",
+          "jti": "jti_87dec050626e4a3cba0d9b706cca1077"
+        },
+        "createdAt": "2026-06-12T07:23:17.749Z"
+      },
+      {
+        "_id": "6a2bb3d5a43fb195ea1443df",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_d0e797a544f34e0a8fcd48e9dd232c83",
+        "ipAddress": "::1",
+        "userAgent": "",
+        "metadata": {
+          "deviceHash": "aa8236319d1aa48222b5544b9e9c0be00360c3d0b4e81806baa671fd69cf7024",
+          "deviceLabel": "Unknown Browser on Unknown OS"
+        },
+        "createdAt": "2026-06-12T07:23:01.765Z"
+      },
+      {
+        "_id": "6a2bb3d5a43fb195ea1443dd",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_d0e797a544f34e0a8fcd48e9dd232c83",
+        "ipAddress": "::1",
+        "userAgent": "",
+        "metadata": {
+          "distinctDeviceCount": 3
+        },
+        "createdAt": "2026-06-12T07:23:01.699Z"
+      },
+      {
+        "_id": "6a2bb3d5a43fb195ea1443da",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_d0e797a544f34e0a8fcd48e9dd232c83",
+        "ipAddress": "::1",
+        "userAgent": "",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "",
+          "deviceHash": "aa8236319d1aa48222b5544b9e9c0be00360c3d0b4e81806baa671fd69cf7024",
+          "deviceLabel": "Unknown Browser on Unknown OS",
+          "browser": "Unknown Browser",
+          "platform": "Unknown OS",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_d0e797a544f34e0a8fcd48e9dd232c83",
+          "jti": "jti_167c716ea9354a45b8590d7887ff7801"
+        },
+        "createdAt": "2026-06-12T07:23:01.583Z"
+      },
+      {
+        "_id": "6a2bb364a43fb195ea1443c4",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_fbd53337f8344ca8b9eefff94b53c79e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows"
+        },
+        "createdAt": "2026-06-12T07:21:08.202Z"
+      },
+      {
+        "_id": "6a2bb364a43fb195ea1443c2",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_fbd53337f8344ca8b9eefff94b53c79e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-12T07:21:08.142Z"
+      },
+      {
+        "_id": "6a2bb364a43fb195ea1443bf",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_fbd53337f8344ca8b9eefff94b53c79e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows",
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_fbd53337f8344ca8b9eefff94b53c79e",
+          "jti": "jti_9c0d3b3f87934e83b8253862eef560b2"
+        },
+        "createdAt": "2026-06-12T07:21:08.034Z"
+      },
+      {
+        "_id": "6a2bb2dfa43fb195ea144370",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_813c2386619e47d1a4377fce2f4bf40e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows"
+        },
+        "createdAt": "2026-06-12T07:18:55.278Z"
+      },
+      {
+        "_id": "6a2bb2dfa43fb195ea14436e",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_813c2386619e47d1a4377fce2f4bf40e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-12T07:18:55.196Z"
+      },
+      {
+        "_id": "6a2bb2dfa43fb195ea14436b",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_813c2386619e47d1a4377fce2f4bf40e",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows",
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_813c2386619e47d1a4377fce2f4bf40e",
+          "jti": "jti_80efd4c3d49e455caef4b05a9df3007c"
+        },
+        "createdAt": "2026-06-12T07:18:55.021Z"
+      },
+      {
+        "_id": "6a2bb257a43fb195ea14430b",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_5ab40a05d2e244f1b8878d5b559ea999",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows"
+        },
+        "createdAt": "2026-06-12T07:16:39.811Z"
+      },
+      {
+        "_id": "6a2bb257a43fb195ea144309",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_5ab40a05d2e244f1b8878d5b559ea999",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-12T07:16:39.752Z"
+      },
+      {
+        "_id": "6a2bb257a43fb195ea144306",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_5ab40a05d2e244f1b8878d5b559ea999",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows",
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_5ab40a05d2e244f1b8878d5b559ea999",
+          "jti": "jti_f7f2c7aea1114427af9fa00d1995c272"
+        },
+        "createdAt": "2026-06-12T07:16:39.633Z"
+      },
+      {
+        "_id": "6a2bb24ea43fb195ea1442fe",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_29e4a64e370a435f9d304a58845baeb3",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows"
+        },
+        "createdAt": "2026-06-12T07:16:30.292Z"
+      },
+      {
+        "_id": "6a2bb24ea43fb195ea1442fc",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_29e4a64e370a435f9d304a58845baeb3",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-12T07:16:30.229Z"
+      },
+      {
+        "_id": "6a2bb24ea43fb195ea1442f9",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_29e4a64e370a435f9d304a58845baeb3",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows",
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_29e4a64e370a435f9d304a58845baeb3",
+          "jti": "jti_b21b5537e0704dc09aa2b18907aed6de"
+        },
+        "createdAt": "2026-06-12T07:16:30.109Z"
+      },
+      {
+        "_id": "6a2bb23da43fb195ea1442f5",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_55730d6561744c5896a165a7e5a6bedf",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows"
+        },
+        "createdAt": "2026-06-12T07:16:13.406Z"
+      },
+      {
+        "_id": "6a2bb23da43fb195ea1442f3",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_55730d6561744c5896a165a7e5a6bedf",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-12T07:16:13.332Z"
+      },
+      {
+        "_id": "6a2bb23da43fb195ea1442f0",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_55730d6561744c5896a165a7e5a6bedf",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows",
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_55730d6561744c5896a165a7e5a6bedf",
+          "jti": "jti_e0820c9ec46f4abb9e94b4796bc06650"
+        },
+        "createdAt": "2026-06-12T07:16:13.219Z"
+      },
+      {
+        "_id": "6a2bb232a43fb195ea1442e3",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_70253e75651c4403a42b1573eec1524b",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows"
+        },
+        "createdAt": "2026-06-12T07:16:02.644Z"
+      },
+      {
+        "_id": "6a2bb232a43fb195ea1442e1",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_70253e75651c4403a42b1573eec1524b",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-12T07:16:02.577Z"
+      },
+      {
+        "_id": "6a2bb232a43fb195ea1442de",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_70253e75651c4403a42b1573eec1524b",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows",
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_70253e75651c4403a42b1573eec1524b",
+          "jti": "jti_2a8bba966d7949408400ff507c67cce7"
+        },
+        "createdAt": "2026-06-12T07:16:02.462Z"
+      },
+      {
+        "_id": "6a2bb219a43fb195ea1442be",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_8f8668a3f4944e6388a22e44fdf557bc",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows"
+        },
+        "createdAt": "2026-06-12T07:15:37.707Z"
+      },
+      {
+        "_id": "6a2bb219a43fb195ea1442bc",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_8f8668a3f4944e6388a22e44fdf557bc",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-12T07:15:37.643Z"
+      },
+      {
+        "_id": "6a2bb219a43fb195ea1442b9",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_8f8668a3f4944e6388a22e44fdf557bc",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows",
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_8f8668a3f4944e6388a22e44fdf557bc",
+          "jti": "jti_23e52436eaf749fbaf1d4afeaf931ffc"
+        },
+        "createdAt": "2026-06-12T07:15:37.522Z"
+      },
+      {
+        "_id": "6a2bb1c8a43fb195ea144248",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_dc185ba4294d4736b65eef3b19867b96",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows"
+        },
+        "createdAt": "2026-06-12T07:14:16.737Z"
+      },
+      {
+        "_id": "6a2bb1c8a43fb195ea144246",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_dc185ba4294d4736b65eef3b19867b96",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-12T07:14:16.673Z"
+      },
+      {
+        "_id": "6a2bb1c8a43fb195ea144243",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_dc185ba4294d4736b65eef3b19867b96",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_dc185ba4294d4736b65eef3b19867b96",
+          "jti": "jti_d6f59b44f9f34d15845dd1abbdabfa5f"
+        },
+        "createdAt": "2026-06-12T07:14:16.557Z"
+      },
+      {
+        "_id": "6a2bb1a5a43fb195ea14423c",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_be059c64c4d94fd58ae5df35bb35cd55",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows"
+        },
+        "createdAt": "2026-06-12T07:13:41.951Z"
+      },
+      {
+        "_id": "6a2bb1a5a43fb195ea14423a",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_be059c64c4d94fd58ae5df35bb35cd55",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-12T07:13:41.880Z"
+      },
+      {
+        "_id": "6a2bb1a5a43fb195ea144237",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_be059c64c4d94fd58ae5df35bb35cd55",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows",
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_be059c64c4d94fd58ae5df35bb35cd55",
+          "jti": "jti_86be7346146049ca80c82cf14a88f512"
+        },
+        "createdAt": "2026-06-12T07:13:41.763Z"
+      },
+      {
+        "_id": "6a2bb19da43fb195ea144233",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_f5a5687c1ede47d0b87dc3583551d537",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows"
+        },
+        "createdAt": "2026-06-12T07:13:33.877Z"
+      },
+      {
+        "_id": "6a2bb19da43fb195ea144231",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_f5a5687c1ede47d0b87dc3583551d537",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-12T07:13:33.819Z"
+      },
+      {
+        "_id": "6a2bb19da43fb195ea14422e",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_f5a5687c1ede47d0b87dc3583551d537",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows",
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_f5a5687c1ede47d0b87dc3583551d537",
+          "jti": "jti_76ddbacf92c843e79069f9cbade73bbd"
+        },
+        "createdAt": "2026-06-12T07:13:33.696Z"
+      },
+      {
+        "_id": "6a2bb179a43fb195ea144225",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_53d028264c034d1da4919f9b786be898",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows"
+        },
+        "createdAt": "2026-06-12T07:12:57.786Z"
+      },
+      {
+        "_id": "6a2bb179a43fb195ea144221",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_53d028264c034d1da4919f9b786be898",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_53d028264c034d1da4919f9b786be898",
+          "jti": "jti_7e01568120ac452fadacc544c313c8a7"
+        },
+        "createdAt": "2026-06-12T07:12:57.614Z"
+      },
+      {
+        "_id": "6a2bb0d4cbbec7e0139008ba",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "employee",
+        "action": "login_success",
+        "targetSessionId": "sess_4727831ccb00470a9f933116e01d1fcd",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows"
+        },
+        "createdAt": "2026-06-12T07:10:12.267Z"
+      },
+      {
+        "_id": "6a2bb0d4cbbec7e0139008b7",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "employee",
+        "action": "session_created",
+        "targetSessionId": "sess_4727831ccb00470a9f933116e01d1fcd",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+          "deviceHash": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+          "deviceLabel": "Unknown Browser on Windows",
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_4727831ccb00470a9f933116e01d1fcd",
+          "jti": "jti_f6c44091657846bea31dc60d2df1d240"
+        },
+        "createdAt": "2026-06-12T07:10:12.142Z"
+      },
+      {
+        "_id": "6a2bb08bcbbec7e0139008b0",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "employee",
+        "action": "third_session_attempt",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "attemptedAt": "2026-06-12T07:08:59.915Z",
+          "deviceLabel": "Unknown Browser on Windows",
+          "browser": "Unknown Browser",
+          "platform": "Windows"
+        },
+        "createdAt": "2026-06-12T07:08:59.915Z"
+      },
+      {
+        "_id": "6a2bb061cbbec7e0139008ab",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "employee",
+        "action": "third_session_attempt",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "attemptedAt": "2026-06-12T07:08:17.101Z",
+          "deviceLabel": "Unknown Browser on Windows",
+          "browser": "Unknown Browser",
+          "platform": "Windows"
+        },
+        "createdAt": "2026-06-12T07:08:17.102Z"
+      },
+      {
+        "_id": "6a2bb01ecbbec7e0139008a7",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "employee",
+        "action": "login_success",
+        "targetSessionId": "sess_455c38273cda461e9ecaa626105f3830",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows"
+        },
+        "createdAt": "2026-06-12T07:07:10.725Z"
+      },
+      {
+        "_id": "6a2bb01ecbbec7e0139008a4",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "employee",
+        "action": "session_created",
+        "targetSessionId": "sess_455c38273cda461e9ecaa626105f3830",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_455c38273cda461e9ecaa626105f3830",
+          "jti": "jti_4d8f915f33db41a6b0b1ab33f6cd79aa"
+        },
+        "createdAt": "2026-06-12T07:07:10.605Z"
+      },
+      {
+        "_id": "6a2baf9ccbbec7e01390089e",
+        "actorUserId": "ADMIN-2026",
+        "actorRole": "employee",
+        "action": "login_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "invalid_credentials"
+        },
+        "createdAt": "2026-06-12T07:05:00.751Z"
+      },
+      {
+        "_id": "6a2baf99cbbec7e01390089b",
+        "actorUserId": "ADMIN-2026",
+        "actorRole": "employee",
+        "action": "login_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "invalid_credentials"
+        },
+        "createdAt": "2026-06-12T07:04:57.952Z"
+      },
+      {
+        "_id": "6a2baf96cbbec7e013900898",
+        "actorUserId": "unknown",
+        "actorRole": "system",
+        "action": "auth_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "jwt_verify_failed",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T07:04:54.301Z"
+      },
+      {
+        "_id": "6a2baf95cbbec7e013900896",
+        "actorUserId": "unknown",
+        "actorRole": "system",
+        "action": "auth_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "jwt_verify_failed",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T07:04:53.698Z"
+      },
+      {
+        "_id": "6a2baec9cbbec7e013900894",
+        "actorUserId": "unknown",
+        "actorRole": "system",
+        "action": "auth_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "jwt_verify_failed",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-12T07:01:29.255Z"
+      },
+      {
+        "_id": "6a2baec9cbbec7e013900892",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "employee",
+        "action": "login_success",
+        "targetSessionId": "sess_bb9d763bead541e9802a3fb6c6ddd4d5",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows"
+        },
+        "createdAt": "2026-06-12T07:01:29.122Z"
+      },
+      {
+        "_id": "6a2baec8cbbec7e01390088f",
+        "actorUserId": "employee:ADMIN-2026",
+        "actorRole": "employee",
+        "action": "session_created",
+        "targetSessionId": "sess_bb9d763bead541e9802a3fb6c6ddd4d5",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_bb9d763bead541e9802a3fb6c6ddd4d5",
+          "jti": "jti_5fc65f68e39f47a58804348975eca7cf"
+        },
+        "createdAt": "2026-06-12T07:01:28.957Z"
+      },
+      {
+        "_id": "6a2bae5c2afd72723442c072",
+        "actorUserId": "test",
+        "actorRole": "employee",
+        "action": "login_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "metadata": {
+          "reason": "employee_not_found"
+        },
+        "createdAt": "2026-06-12T06:59:40.092Z"
+      },
+      {
+        "_id": "6a2badfa2afd72723442c06f",
+        "actorUserId": "ADMIN-2026",
+        "actorRole": "employee",
+        "action": "login_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "employee_not_found"
+        },
+        "createdAt": "2026-06-12T06:58:02.320Z"
+      },
+      {
+        "_id": "6a2af7b586a63b27a34770a8",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_18ec7ca6dfa44991b472801c54fa40df",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "operatorName": "System Admin"
+        },
+        "createdAt": "2026-06-11T18:00:21.479Z"
+      },
+      {
+        "_id": "6a2af7b586a63b27a34770a6",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_18ec7ca6dfa44991b472801c54fa40df",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-11T18:00:21.388Z"
+      },
+      {
+        "_id": "6a2af7b586a63b27a34770a3",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_18ec7ca6dfa44991b472801c54fa40df",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "employeeEmail": "admin@techmnhub.com",
+          "operatorName": "System Admin",
+          "sessionId": "sess_18ec7ca6dfa44991b472801c54fa40df",
+          "jti": "jti_463bd90ef13344c2a4b23b1603982165"
+        },
+        "createdAt": "2026-06-11T18:00:21.233Z"
+      },
+      {
+        "_id": "6a26faa68b4d4869065806db",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_e9fbf735b7e1460483e66623788e0398",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "operatorName": "PRIYANSH"
+        },
+        "createdAt": "2026-06-08T17:23:50.181Z"
+      },
+      {
+        "_id": "6a26faa68b4d4869065806d8",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_e9fbf735b7e1460483e66623788e0398",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "employeeEmail": "admin@techmnhub.com",
+          "operatorName": "PRIYANSH",
+          "sessionId": "sess_e9fbf735b7e1460483e66623788e0398",
+          "jti": "jti_daab9f0f28224bad9354fd553d0ae0ab"
+        },
+        "createdAt": "2026-06-08T17:23:50.037Z"
+      },
+      {
+        "_id": "6a26c2bced12b68bf0fc62fa",
+        "actorUserId": "admin@techmnhub.com",
+        "actorRole": "admin",
+        "action": "session_revoked_all",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "targetUserId": "admin:MN-INT-2026-005",
+          "revokedCount": 1,
+          "reason": "Manually revoked all by administrator"
+        },
+        "createdAt": "2026-06-08T13:25:16.563Z"
+      },
+      {
+        "_id": "6a26c2bced12b68bf0fc62f8",
+        "actorUserId": "admin@techmnhub.com",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_8e2008980e1d4e87b5a70fff97d84393",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "Manually revoked all by administrator",
+          "targetUserId": "admin:MN-INT-2026-005",
+          "targetRole": "employee"
+        },
+        "createdAt": "2026-06-08T13:25:16.516Z"
+      },
+      {
+        "_id": "6a26c2b2ed12b68bf0fc62bb",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_8230821281be409587b7acf2545ebbff",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "operatorName": "PRIYANSH"
+        },
+        "createdAt": "2026-06-08T13:25:06.041Z"
+      },
+      {
+        "_id": "6a26c2b1ed12b68bf0fc62b8",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_8230821281be409587b7acf2545ebbff",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "employeeEmail": "admin@techmnhub.com",
+          "operatorName": "PRIYANSH",
+          "sessionId": "sess_8230821281be409587b7acf2545ebbff",
+          "jti": "jti_edad3433d12a4928929a78ad94116296"
+        },
+        "createdAt": "2026-06-08T13:25:05.938Z"
+      },
+      {
+        "_id": "6a26c2a6ed12b68bf0fc62b3",
+        "actorUserId": "admin@techmnhub.com",
+        "actorRole": "admin",
+        "action": "session_revoked_all",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "targetUserId": "admin:ADMIN-2026",
+          "revokedCount": 1,
+          "reason": "revoked_all_by_admin"
+        },
+        "createdAt": "2026-06-08T13:24:54.767Z"
+      },
+      {
+        "_id": "6a26c2a6ed12b68bf0fc62b1",
+        "actorUserId": "admin@techmnhub.com",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_d4f10e9cdf7540c7ab3a8b03652090fd",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "revoked_all_by_admin",
+          "targetUserId": "admin:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-08T13:24:54.716Z"
+      },
+      {
+        "_id": "6a26c2a2ed12b68bf0fc627c",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_d4f10e9cdf7540c7ab3a8b03652090fd",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "operatorName": "PRIYANSH"
+        },
+        "createdAt": "2026-06-08T13:24:50.101Z"
+      },
+      {
+        "_id": "6a26c2a2ed12b68bf0fc6279",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_d4f10e9cdf7540c7ab3a8b03652090fd",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "employeeEmail": "admin@techmnhub.com",
+          "operatorName": "PRIYANSH",
+          "sessionId": "sess_d4f10e9cdf7540c7ab3a8b03652090fd",
+          "jti": "jti_2562d51c820b43c898708ae8a4895cf0"
+        },
+        "createdAt": "2026-06-08T13:24:50.010Z"
+      },
+      {
+        "_id": "6a26c163ed12b68bf0fc6274",
+        "actorUserId": "admin:MN-INT-2026-005",
+        "actorRole": "employee",
+        "action": "login_success",
+        "targetSessionId": "sess_8e2008980e1d4e87b5a70fff97d84393",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "employeeId": "MN-INT-2026-005",
+          "employeeName": "Priyansh Tyagi",
+          "operatorName": "PRIYANSH"
+        },
+        "createdAt": "2026-06-08T13:19:31.645Z"
+      },
+      {
+        "_id": "6a26c163ed12b68bf0fc6271",
+        "actorUserId": "admin:MN-INT-2026-005",
+        "actorRole": "employee",
+        "action": "session_created",
+        "targetSessionId": "sess_8e2008980e1d4e87b5a70fff97d84393",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "employeeId": "MN-INT-2026-005",
+          "employeeName": "Priyansh Tyagi",
+          "employeeEmail": "tpriyansh973@gmail.com",
+          "operatorName": "PRIYANSH",
+          "sessionId": "sess_8e2008980e1d4e87b5a70fff97d84393",
+          "jti": "jti_e376e75af71f44bf971c4fe4f02ba36e"
+        },
+        "createdAt": "2026-06-08T13:19:31.555Z"
+      },
+      {
+        "_id": "6a26c151ed12b68bf0fc626a",
+        "actorUserId": "unknown",
+        "actorRole": "system",
+        "action": "auth_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "jwt_verify_failed",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-08T13:19:13.575Z"
+      },
+      {
+        "_id": "6a26c151ed12b68bf0fc6268",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_0208b7f7d65c405d8578dd985b07e409",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-08T13:19:13.519Z"
+      },
+      {
+        "_id": "6a26c14eed12b68bf0fc6264",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_0208b7f7d65c405d8578dd985b07e409",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-08T13:19:10.383Z"
+      },
+      {
+        "_id": "6a26c0f6ed12b68bf0fc6260",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_0208b7f7d65c405d8578dd985b07e409",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-08T13:17:42.369Z"
+      },
+      {
+        "_id": "6a26c0f2ed12b68bf0fc625c",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "auth_failed",
+        "targetSessionId": "sess_0208b7f7d65c405d8578dd985b07e409",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "session_revoked",
+          "revokeReason": "Global administrator reset",
+          "scope": "admin"
+        },
+        "createdAt": "2026-06-08T13:17:38.686Z"
+      },
+      {
+        "_id": "6a26c0f2ed12b68bf0fc6258",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_6c7f546687af4667b955bffc5600a1e1",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "admin:ADMIN-2026",
+          "targetRole": "admin"
+        },
+        "createdAt": "2026-06-08T13:17:38.521Z"
+      },
+      {
+        "_id": "6a26c0f2ed12b68bf0fc6253",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_a01a5ac25641409fa47f52656b4dfc6b",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "admin:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-08T13:17:38.322Z"
+      },
+      {
+        "_id": "6a26c0f2ed12b68bf0fc624e",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_a609867018444ef1b8777c9e7b318829",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "admin:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-08T13:17:38.120Z"
+      },
+      {
+        "_id": "6a26c0f1ed12b68bf0fc6249",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_451a0ade536d4d1a95e4323a98ed2696",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "admin:MN-INT-2026-005",
+          "targetRole": "employee"
+        },
+        "createdAt": "2026-06-08T13:17:37.932Z"
+      },
+      {
+        "_id": "6a26c0f1ed12b68bf0fc6244",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_dd51a0f9e9df45f9831e7e616eaff157",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "admin:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-08T13:17:37.751Z"
+      },
+      {
+        "_id": "6a26c0f1ed12b68bf0fc623f",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_429ba182866341428021d1131cc22b44",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "admin:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-08T13:17:37.560Z"
+      },
+      {
+        "_id": "6a26c0f1ed12b68bf0fc623a",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_aaae3247c0c04cf899019d10fd0eb1e4",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "admin:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-08T13:17:37.351Z"
+      },
+      {
+        "_id": "6a26c0f1ed12b68bf0fc6235",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_ebc7bbb5152c4e6887fa52d735054ccb",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "admin:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-08T13:17:37.162Z"
+      },
+      {
+        "_id": "6a26c0f0ed12b68bf0fc6230",
+        "actorUserId": "admin",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_0208b7f7d65c405d8578dd985b07e409",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Global administrator reset",
+          "targetUserId": "admin:ADMIN-2026",
+          "targetRole": "super_admin"
+        },
+        "createdAt": "2026-06-08T13:17:36.966Z"
+      },
+      {
+        "_id": "6a26c0eced12b68bf0fc6223",
+        "actorUserId": "admin@techmnhub.com",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_98e469960574474fa6b07a04c1cbb937",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Manually revoked by administrator",
+          "targetUserId": "admin:MN-INT-2026-005",
+          "targetRole": "employee"
+        },
+        "createdAt": "2026-06-08T13:17:32.020Z"
+      },
+      {
+        "_id": "6a26c0dced12b68bf0fc61e7",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_0208b7f7d65c405d8578dd985b07e409",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "operatorName": "Priyansh"
+        },
+        "createdAt": "2026-06-08T13:17:16.435Z"
+      },
+      {
+        "_id": "6a26c0dced12b68bf0fc61e5",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_0208b7f7d65c405d8578dd985b07e409",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-08T13:17:16.379Z"
+      },
+      {
+        "_id": "6a26c0dced12b68bf0fc61e2",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_0208b7f7d65c405d8578dd985b07e409",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "employeeEmail": "admin@techmnhub.com",
+          "operatorName": "Priyansh",
+          "sessionId": "sess_0208b7f7d65c405d8578dd985b07e409",
+          "jti": "jti_1afb0891bf2b4d409170586a0819359d"
+        },
+        "createdAt": "2026-06-08T13:17:16.274Z"
+      },
+      {
+        "_id": "6a26c0c7ed12b68bf0fc61dd",
+        "actorUserId": "admin:MN-INT-2026-005",
+        "actorRole": "employee",
+        "action": "third_session_attempt",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "attemptedAt": "2026-06-08T13:16:55.230Z",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows"
+        },
+        "createdAt": "2026-06-08T13:16:55.231Z"
+      },
+      {
+        "_id": "6a26c0beed12b68bf0fc61d8",
+        "actorUserId": "admin:MN-INT-2026-005",
+        "actorRole": "employee",
+        "action": "third_session_attempt",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "attemptedAt": "2026-06-08T13:16:46.925Z",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows"
+        },
+        "createdAt": "2026-06-08T13:16:46.930Z"
+      },
+      {
+        "_id": "6a26ad438ec39a48a6d4e6d4",
+        "actorUserId": "admin:MN-INT-2026-005",
+        "actorRole": "employee",
+        "action": "login_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "invalid_credentials"
+        },
+        "createdAt": "2026-06-08T11:53:39.377Z"
+      },
+      {
+        "_id": "6a26ab3e8ec39a48a6d4e6ce",
+        "actorUserId": "admin:MN-INT-2026-005",
+        "actorRole": "employee",
+        "action": "login_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "invalid_credentials"
+        },
+        "createdAt": "2026-06-08T11:45:02.748Z"
+      },
+      {
+        "_id": "6a26ab388ec39a48a6d4e6c8",
+        "actorUserId": "admin:MN-INT-2026-005",
+        "actorRole": "employee",
+        "action": "login_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "invalid_credentials"
+        },
+        "createdAt": "2026-06-08T11:44:56.483Z"
+      },
+      {
+        "_id": "6a26ab348ec39a48a6d4e6c3",
+        "actorUserId": "admin:MN-INT-2026-005",
+        "actorRole": "employee",
+        "action": "login_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "invalid_credentials"
+        },
+        "createdAt": "2026-06-08T11:44:52.613Z"
+      },
+      {
+        "_id": "6a26ab2d8ec39a48a6d4e6bf",
+        "actorUserId": "ADMIN-2026",
+        "actorRole": "admin",
+        "action": "password_change",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "employeeId": "MN-INT-2026-005",
+          "employeeName": "Priyansh Tyagi",
+          "adminAccess": true,
+          "emailSent": true
+        },
+        "createdAt": "2026-06-08T11:44:45.271Z"
+      },
+      {
+        "_id": "6a26ab1e8ec39a48a6d4e6b8",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_ebc7bbb5152c4e6887fa52d735054ccb",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "operatorName": "ADMIN"
+        },
+        "createdAt": "2026-06-08T11:44:30.214Z"
+      },
+      {
+        "_id": "6a26ab1e8ec39a48a6d4e6b6",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_ebc7bbb5152c4e6887fa52d735054ccb",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-08T11:44:30.156Z"
+      },
+      {
+        "_id": "6a26ab1e8ec39a48a6d4e6b3",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_ebc7bbb5152c4e6887fa52d735054ccb",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "employeeEmail": "admin@techmnhub.com",
+          "operatorName": "ADMIN",
+          "sessionId": "sess_ebc7bbb5152c4e6887fa52d735054ccb",
+          "jti": "jti_8667185e805d45aa9262e1e98167e7c0"
+        },
+        "createdAt": "2026-06-08T11:44:30.067Z"
+      },
+      {
+        "_id": "6a26aaf78ec39a48a6d4e6ad",
+        "actorUserId": "admin:MN-INT-2026-005",
+        "actorRole": "employee",
+        "action": "login_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "invalid_credentials"
+        },
+        "createdAt": "2026-06-08T11:43:51.971Z"
+      },
+      {
+        "_id": "6a26aad98ec39a48a6d4e6a4",
+        "actorUserId": "ADMIN-2026",
+        "actorRole": "admin",
+        "action": "profile_update",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "employeeId": "MN-INT-2026-002",
+          "employeeName": "Mahima",
+          "adminAccess": true
+        },
+        "createdAt": "2026-06-08T11:43:21.450Z"
+      },
+      {
+        "_id": "6a26a3ea0345502d8bb60854",
+        "actorUserId": "admin@techmnhub.com",
+        "actorRole": "admin",
+        "action": "session_revoked",
+        "targetSessionId": "sess_38529af46e1941f1b1c45dc3ed0f0771",
+        "ipAddress": "",
+        "userAgent": "",
+        "metadata": {
+          "reason": "Manually revoked by administrator",
+          "targetUserId": "admin:MN-INT-2026-005",
+          "targetRole": "admin"
+        },
+        "createdAt": "2026-06-08T11:13:46.620Z"
+      },
+      {
+        "_id": "6a26a3b30345502d8bb60808",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_aaae3247c0c04cf899019d10fd0eb1e4",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "operatorName": "PRIYANSH"
+        },
+        "createdAt": "2026-06-08T11:12:51.730Z"
+      },
+      {
+        "_id": "6a26a3b30345502d8bb60806",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_aaae3247c0c04cf899019d10fd0eb1e4",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-08T11:12:51.588Z"
+      },
+      {
+        "_id": "6a26a3b30345502d8bb60803",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_aaae3247c0c04cf899019d10fd0eb1e4",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "d0a873dfb03699303b8b2879d4c1a22fa9675307de43e6996809377212ec1776",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "employeeEmail": "admin@techmnhub.com",
+          "operatorName": "PRIYANSH",
+          "sessionId": "sess_aaae3247c0c04cf899019d10fd0eb1e4",
+          "jti": "jti_9f062824e23340d69f617183933f7bbc"
+        },
+        "createdAt": "2026-06-08T11:12:51.343Z"
+      },
+      {
+        "_id": "6a26a39f0345502d8bb607cb",
+        "actorUserId": "admin:MN-INT-2026-005",
+        "actorRole": "employee",
+        "action": "login_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "invalid_credentials"
+        },
+        "createdAt": "2026-06-08T11:12:31.449Z"
+      },
+      {
+        "_id": "6a26a3690345502d8bb60775",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_429ba182866341428021d1131cc22b44",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "639a4b0453b7ff1b65d5f81324c971d69e6e488080cb68a2d86b658fc69badb1",
+          "deviceLabel": "Chrome on Windows",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "operatorName": "Super Admin"
+        },
+        "createdAt": "2026-06-08T11:11:37.944Z"
+      },
+      {
+        "_id": "6a26a3690345502d8bb60773",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_429ba182866341428021d1131cc22b44",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-08T11:11:37.868Z"
+      },
+      {
+        "_id": "6a26a3690345502d8bb60770",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_429ba182866341428021d1131cc22b44",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "639a4b0453b7ff1b65d5f81324c971d69e6e488080cb68a2d86b658fc69badb1",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "employeeEmail": "admin@techmnhub.com",
+          "operatorName": "Super Admin",
+          "sessionId": "sess_429ba182866341428021d1131cc22b44",
+          "jti": "jti_4f36405cc2884d2fa0ddeba3a04b2546"
+        },
+        "createdAt": "2026-06-08T11:11:37.741Z"
+      },
+      {
+        "_id": "6a26a3650345502d8bb6076b",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "login_success",
+        "targetSessionId": "sess_dd51a0f9e9df45f9831e7e616eaff157",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "deviceHash": "639a4b0453b7ff1b65d5f81324c971d69e6e488080cb68a2d86b658fc69badb1",
+          "deviceLabel": "Chrome on Windows",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "operatorName": "Test"
+        },
+        "createdAt": "2026-06-08T11:11:33.987Z"
+      },
+      {
+        "_id": "6a26a3650345502d8bb60769",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "multi_device_login",
+        "targetSessionId": "sess_dd51a0f9e9df45f9831e7e616eaff157",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "distinctDeviceCount": 2
+        },
+        "createdAt": "2026-06-08T11:11:33.921Z"
+      },
+      {
+        "_id": "6a26a3650345502d8bb60766",
+        "actorUserId": "admin:ADMIN-2026",
+        "actorRole": "super_admin",
+        "action": "session_created",
+        "targetSessionId": "sess_dd51a0f9e9df45f9831e7e616eaff157",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "ipAddress": "::1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "deviceHash": "639a4b0453b7ff1b65d5f81324c971d69e6e488080cb68a2d86b658fc69badb1",
+          "deviceLabel": "Chrome on Windows",
+          "browser": "Chrome",
+          "platform": "Windows",
+          "geoCity": "",
+          "geoState": "",
+          "geoCountry": "",
+          "employeeId": "ADMIN-2026",
+          "employeeName": "Super Admin",
+          "employeeEmail": "admin@techmnhub.com",
+          "operatorName": "Test",
+          "sessionId": "sess_dd51a0f9e9df45f9831e7e616eaff157",
+          "jti": "jti_147adf286cb3424ab89d08d507914604"
+        },
+        "createdAt": "2026-06-08T11:11:33.738Z"
+      },
+      {
+        "_id": "6a26a3650345502d8bb60760",
+        "actorUserId": "admin:USR-001",
+        "actorRole": "employee",
+        "action": "login_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "admin_employee_not_found"
+        },
+        "createdAt": "2026-06-08T11:11:33.412Z"
+      },
+      {
+        "_id": "6a26a3650345502d8bb6075b",
+        "actorUserId": "admin:ADMIN",
+        "actorRole": "employee",
+        "action": "login_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "admin_employee_not_found"
+        },
+        "createdAt": "2026-06-08T11:11:33.131Z"
+      },
+      {
+        "_id": "6a26a3640345502d8bb60756",
+        "actorUserId": "admin:admin",
+        "actorRole": "employee",
+        "action": "login_failed",
+        "targetSessionId": "",
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "metadata": {
+          "reason": "admin_employee_not_found"
+        },
+        "createdAt": "2026-06-08T11:11:32.873Z"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "summerCampConfig": {
+          "heroMessage": "",
+          "keyHighlights": [],
+          "campDates": "",
+          "mentorHighlights": [],
+          "programFocus": "",
+          "callToActionText": "Enroll Now"
+        },
+        "eligibility": {
+          "minClass": "6th",
+          "maxClass": "12th",
+          "boardsAccepted": [
+            "CBSE",
+            "ICSE",
+            "State Boards"
+          ],
+          "ageGroup": "10-18"
+        },
+        "registrationSettings": {
+          "enabled": true,
+          "deadline": "2026-05-24T00:00:00.000Z",
+          "maxRegistrations": 190,
+          "waitingList": true,
+          "autoConfirmation": true
+        },
+        "displayOptions": {
+          "mediaTile": true,
+          "statsTile": true,
+          "eligibilityTile": true,
+          "highlightsTile": true,
+          "scheduleTile": true,
+          "passesTile": true,
+          "rewardsTile": true,
+          "seoTile": true,
+          "contactTile": true,
+          "registrationTile": true
+        },
+        "contact": {
+          "email": "techmnhub.team@gmail.com",
+          "phone": "+91 9259586175"
+        },
+        "seo": {
+          "metaTitle": "TechMNHub Future Skills Summer Camp 2026",
+          "metaDescription": "Join the premium Summer Camp for AI, coding, public speaking, and future-ready skills.",
+          "keywords": [
+            "summer camp",
+            "future skills",
+            "AI camp",
+            "coding bootcamp"
+          ],
+          "openGraphImage": ""
+        },
+        "entryFee": {
+          "pro": "Rs 399",
+          "visitor": "Rs 599"
+        },
+        "ticketInventory": {
+          "pro": {
+            "price": 399,
+            "total": 100
+          },
+          "visitor": {
+            "price": 599,
+            "total": 60
+          }
+        },
+        "seatsLeft": null,
+        "_id": "6a08b424d7c9d8de5cb2e53f",
+        "name": "TechMNHub Future Skills Summer Camp 2026",
+        "title": "TechMNHub Future Skills Summer Camp 2026",
+        "subtitle": "Future-ready learning for students in Class 6th-12th",
+        "slug": "techmnhub-future-skills-summer-camp-2026",
+        "shortName": "Future Skills Summer Camp 2026",
+        "dateLabel": "1 June, 2026",
+        "comingSoon": false,
+        "tagline": "",
+        "shortDescription": "A premium summer camp for future-ready students.",
+        "fullDescription": "The TechMNHub Future Skills Summer Camp 2026 brings together young learners for hands-on AI, coding, communication and creativity workshops guided by expert mentors.",
+        "description": "A premium summer camp for school students to learn AI, coding, public speaking and future-ready skills through live projects and mentor-led sessions.",
+        "bannerImage": "",
+        "thumbnailImage": "",
+        "promoVideoUrl": "",
+        "date": "1 June, 2026",
+        "startDate": null,
+        "endDate": null,
+        "day": "Saturday",
+        "time": "09:00 AM - 02:00 PM",
+        "timings": "09:00 AM - 02:00 PM",
+        "location": "S.D. College of Engineering and Technology,Jansath Road,MUZAFFARNAGAR",
+        "venue": "S.D. College of Engineering and Technology",
+        "city": "Muzaffarnagar",
+        "googleMapsLink": "",
+        "organizer": "TechMNHub",
+        "expectedParticipants": "200+",
+        "skillZones": "5+",
+        "prizes": "Certificates & Rewards",
+        "category": "Summer Camp",
+        "highlights": [
+          "Live AI & coding labs",
+          "Team challenges",
+          "Confidence-building sessions",
+          "Certificate on completion"
+        ],
+        "categories": [
+          "Summer Camp",
+          "AI",
+          "Coding",
+          "Public Speaking",
+          "Creativity"
+        ],
+        "tags": [
+          "Summer Camp",
+          "AI",
+          "Creative Learning",
+          "Future Skills"
+        ],
+        "eventType": "summer_camp",
+        "certificates": [
+          "Participation Certificate"
+        ],
+        "awards": [
+          "Best Learner Award"
+        ],
+        "gifts": [
+          "Camp Kit"
+        ],
+        "rewardPrizes": [
+          "Premium goodies"
+        ],
+        "registrationDeadline": "2026-05-24",
+        "registrationLink": "/summer-camp-registration",
+        "refundPolicy": "No Refund",
+        "ticketTypes": [
+          {
+            "key": "basic-pass",
+            "name": "Basic Pass",
+            "price": 399,
+            "features": [],
+            "highlighted": false,
+            "total": 100,
+            "remainingSeats": 100,
+            "appliesTo": "All",
+            "description": "Core camp access with guided sessions."
+          },
+          {
+            "key": "smart-pass",
+            "name": "Smart Pass",
+            "price": 599,
+            "features": [],
+            "highlighted": false,
+            "total": 60,
+            "remainingSeats": 60,
+            "appliesTo": "All",
+            "description": "Includes extra project coaching and activities."
+          },
+          {
+            "key": "premium-pass",
+            "name": "Premium Pass",
+            "price": 999,
+            "features": [],
+            "highlighted": false,
+            "total": 30,
+            "remainingSeats": 30,
+            "appliesTo": "All",
+            "description": "Full premium experience with mentor clinics."
+          }
+        ],
+        "status": "active",
+        "featured": true,
+        "closedAt": null,
+        "publishedAt": "2026-05-16T18:14:57.917Z",
+        "createdByAdminEmail": "webdevelopers.techmnhub@gmail.com",
+        "updatedByAdminEmail": "",
+        "gallery": [],
+        "dailySchedules": [],
+        "referralCodes": [
+          {
+            "code": "TMH-LUCKY-555",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 3
+          },
+          {
+            "code": "TMH-ABHI-001",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "TMH-RAJAN-002",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "TMH-MANISH-003",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "TMH-ROHIT-004",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "TMH-DEESHA-005",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "TMH-ISHITA-006",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "TMH-AVANTIKA-007",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "TMH-ARSHAN-008",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "TMH-HARSHIT-009",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 3
+          },
+          {
+            "code": "TMH-SHAGUN-010",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "TMH-SIMRAN-011",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 7
+          },
+          {
+            "code": "TMH-SAKSHAM-012",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "AAPNA.MUZAFFARNAGER",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "RADIOSD90.8FM",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "TMH-RAJA-013",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "SAMMAN12",
+            "discountType": "percent",
+            "discountValue": 12,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          },
+          {
+            "code": "EKLAVYACLASSES",
+            "discountType": "percent",
+            "discountValue": 10,
+            "active": true,
+            "maxUses": 0,
+            "usedCount": 0
+          }
+        ],
+        "formFields": [
+          {
+            "id": "fullName",
+            "label": "Full Name",
+            "placeholder": "Enter your full name",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "mobile",
+            "label": "Mobile Number",
+            "placeholder": "Enter your mobile number",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "email",
+            "label": "Email Address",
+            "placeholder": "Enter your email address",
+            "type": "email",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "college",
+            "label": "College/School",
+            "placeholder": "Enter your college or school",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "courseYear",
+            "label": "Course & Year",
+            "placeholder": "Enter your course and year",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "city",
+            "label": "City",
+            "placeholder": "Enter your city",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "portfolio",
+            "label": "Portfolio URL",
+            "placeholder": "Enter portfolio URL",
+            "type": "url",
+            "required": false,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "github",
+            "label": "GitHub URL",
+            "placeholder": "Enter GitHub URL",
+            "type": "url",
+            "required": false,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "instagram",
+            "label": "Instagram URL",
+            "placeholder": "Enter Instagram URL",
+            "type": "url",
+            "required": false,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          }
+        ],
+        "createdAt": "2026-05-16T18:15:00.931Z",
+        "updatedAt": "2026-06-03T16:40:27.085Z",
+        "__v": 18,
+        "themeColor": "#D4AF37",
+        "seatsAvailable": 190,
+        "registrationsCount": 6
+      },
+      {
+        "summerCampConfig": {
+          "heroMessage": "",
+          "keyHighlights": [],
+          "campDates": "",
+          "mentorHighlights": [],
+          "programFocus": "",
+          "callToActionText": "Enroll Now"
+        },
+        "eligibility": {
+          "minClass": "",
+          "maxClass": "",
+          "boardsAccepted": [],
+          "ageGroup": ""
+        },
+        "registrationSettings": {
+          "enabled": true,
+          "deadline": null,
+          "maxRegistrations": 0,
+          "waitingList": false,
+          "autoConfirmation": true
+        },
+        "displayOptions": {
+          "mediaTile": true,
+          "statsTile": true,
+          "eligibilityTile": true,
+          "highlightsTile": true,
+          "scheduleTile": true,
+          "passesTile": true,
+          "rewardsTile": true,
+          "seoTile": true,
+          "contactTile": true,
+          "registrationTile": true
+        },
+        "contact": {
+          "email": "",
+          "phone": ""
+        },
+        "seo": {
+          "metaTitle": "test",
+          "metaDescription": "",
+          "keywords": [],
+          "openGraphImage": ""
+        },
+        "entryFee": {
+          "pro": "Rs 150",
+          "visitor": "Rs 150"
+        },
+        "ticketInventory": {
+          "pro": {
+            "price": 150,
+            "total": 0
+          },
+          "visitor": {
+            "price": 150,
+            "total": 0
+          }
+        },
+        "_id": "6a2bb314a43fb195ea14438f",
+        "name": "test",
+        "title": "test",
+        "subtitle": "",
+        "slug": "test",
+        "shortName": "test",
+        "dateLabel": "2026-06-12",
+        "comingSoon": false,
+        "tagline": "",
+        "shortDescription": "",
+        "fullDescription": "",
+        "description": "",
+        "bannerImage": "",
+        "thumbnailImage": "",
+        "gallery": [],
+        "promoVideoUrl": "",
+        "date": "2026-06-12",
+        "startDate": null,
+        "endDate": null,
+        "day": "",
+        "time": "To be announced",
+        "timings": "",
+        "location": "",
+        "venue": "To be announced",
+        "city": "",
+        "googleMapsLink": "",
+        "organizer": "TechMNHub",
+        "expectedParticipants": "",
+        "skillZones": "",
+        "prizes": "",
+        "category": "",
+        "highlights": [],
+        "categories": [],
+        "tags": [],
+        "eventType": "competition",
+        "dailySchedules": [],
+        "certificates": [],
+        "awards": [],
+        "gifts": [],
+        "rewardPrizes": [],
+        "referralCodes": [],
+        "themeColor": "#D4AF37",
+        "registrationDeadline": "",
+        "registrationLink": "/registration-form/6a2bb314a43fb195ea14438f",
+        "refundPolicy": "",
+        "seatsAvailable": null,
+        "ticketTypes": [
+          {
+            "key": "basic-pass",
+            "name": "Basic Pass",
+            "price": 150,
+            "features": [],
+            "highlighted": false,
+            "total": 0,
+            "remainingSeats": 0,
+            "appliesTo": "All",
+            "description": ""
+          },
+          {
+            "key": "smart-pass",
+            "name": "Smart Pass",
+            "price": 150,
+            "features": [],
+            "highlighted": true,
+            "total": 0,
+            "remainingSeats": 0,
+            "appliesTo": "All",
+            "description": ""
+          }
+        ],
+        "seatsLeft": null,
+        "status": "draft",
+        "featured": false,
+        "closedAt": null,
+        "publishedAt": null,
+        "createdByAdminEmail": "",
+        "updatedByAdminEmail": "",
+        "formFields": [
+          {
+            "id": "fullName",
+            "label": "Full Name",
+            "placeholder": "Enter your full name",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "mobile",
+            "label": "Mobile Number",
+            "placeholder": "Enter your mobile number",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "email",
+            "label": "Email Address",
+            "placeholder": "Enter your email address",
+            "type": "email",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "college",
+            "label": "College/School",
+            "placeholder": "Enter your college or school",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "courseYear",
+            "label": "Course & Year",
+            "placeholder": "Enter your course and year",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "city",
+            "label": "City",
+            "placeholder": "Enter your city",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "portfolio",
+            "label": "Portfolio URL",
+            "placeholder": "Enter portfolio URL",
+            "type": "url",
+            "required": false,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "github",
+            "label": "GitHub URL",
+            "placeholder": "Enter GitHub URL",
+            "type": "url",
+            "required": false,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "instagram",
+            "label": "Instagram URL",
+            "placeholder": "Enter Instagram URL",
+            "type": "url",
+            "required": false,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          }
+        ],
+        "createdAt": "2026-06-12T07:19:48.502Z",
+        "updatedAt": "2026-06-12T07:19:48.639Z",
+        "__v": 0,
+        "registrationsCount": 0
+      },
+      {
+        "summerCampConfig": {
+          "callToActionText": "Enroll Now",
+          "campDates": "",
+          "heroMessage": "",
+          "keyHighlights": [],
+          "mentorHighlights": [],
+          "programFocus": ""
+        },
+        "eligibility": {
+          "ageGroup": "",
+          "boardsAccepted": [],
+          "maxClass": "",
+          "minClass": ""
+        },
+        "registrationSettings": {
+          "deadline": null,
+          "enabled": true,
+          "autoConfirmation": true,
+          "maxRegistrations": 0,
+          "waitingList": false
+        },
+        "displayOptions": {
+          "contactTile": true,
+          "eligibilityTile": true,
+          "highlightsTile": true,
+          "mediaTile": true,
+          "passesTile": true,
+          "registrationTile": true,
+          "rewardsTile": true,
+          "scheduleTile": true,
+          "seoTile": true,
+          "statsTile": true
+        },
+        "contact": {
+          "email": "techmnhub.team@gmail.com",
+          "phone": "+91 9259586175"
+        },
+        "seo": {
+          "keywords": [],
+          "metaDescription": "",
+          "metaTitle": "",
+          "openGraphImage": ""
+        },
+        "entryFee": {
+          "pro": "Rs 150",
+          "visitor": "Rs 150"
+        },
+        "ticketInventory": {
+          "pro": {
+            "price": 150,
+            "total": 0
+          },
+          "visitor": {
+            "price": 150,
+            "total": 0
+          }
+        },
+        "startDate": null,
+        "endDate": null,
+        "seatsLeft": null,
+        "_id": "69b8f7c1b6b522f72b86b88e",
+        "name": "ZONEX 2026 - Where Talent Takes Shape",
+        "shortName": "Zonex 2026",
+        "date": "7 March, 2026",
+        "day": "Saturday",
+        "time": "9:00 AM - 5:00 PM",
+        "location": "S.D. College of Engineering and Technology, Jansath Road, Muzaffarnagar",
+        "venue": "S.D. College of Engineering and Technology, Jansath Road",
+        "city": "Muzaffarnagar",
+        "organizer": "TechMNHub",
+        "expectedParticipants": "800+",
+        "skillZones": "10+",
+        "prizes": "Cash Rewards",
+        "description": "ZONEX is a one-day skill discovery and opportunity festival bringing together students from multiple colleges and schools to showcase talent in technology, creativity, leadership, performance, and innovation.",
+        "highlights": [
+          "800+ Expected Participants",
+          "10+ Skill Zones",
+          "Hackathon with Cash Prizes",
+          "Influencer Meetup",
+          "Food Carnival",
+          "Live Performances",
+          "Networking Sessions"
+        ],
+        "categories": [
+          "Performance",
+          "Hackathon",
+          "Startup Pitch",
+          "Creative Arts",
+          "Communication",
+          "Visitor"
+        ],
+        "tags": [
+          "Festival",
+          "Talent Show",
+          "Hackathon",
+          "Networking"
+        ],
+        "registrationDeadline": "3 March, 2026",
+        "refundPolicy": "No refund after confirmation",
+        "registrationLink": "/registration-form",
+        "ticketTypes": [
+          {
+            "features": [],
+            "highlighted": false,
+            "remainingSeats": 0,
+            "key": "pro-participation",
+            "name": "Pro Participation",
+            "price": 150,
+            "total": 0,
+            "appliesTo": "Participation",
+            "description": "Entry to 2-3 skill zones with event access.",
+            "_id": "69b8f7c1b6b522f72b86b88f"
+          },
+          {
+            "features": [],
+            "highlighted": false,
+            "remainingSeats": 0,
+            "key": "visitor-pass",
+            "name": "Visitor Pass",
+            "price": 150,
+            "total": 0,
+            "appliesTo": "Visitor",
+            "description": "Venue access for visitors.",
+            "_id": "69b8f7c1b6b522f72b86b890"
+          }
+        ],
+        "status": "closed",
+        "closedAt": "2026-06-08T11:13:46.804Z",
+        "createdAt": "2026-03-17T06:42:09.626Z",
+        "updatedAt": "2026-06-08T11:13:46.808Z",
+        "__v": 1,
+        "awards": [],
+        "bannerImage": "",
+        "category": "",
+        "certificates": [],
+        "comingSoon": false,
+        "createdByAdminEmail": "",
+        "dailySchedules": [],
+        "dateLabel": "",
+        "eventType": "competition",
+        "featured": false,
+        "formFields": [
+          {
+            "id": "fullName",
+            "label": "Full Name",
+            "placeholder": "Enter your full name",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "mobile",
+            "label": "Mobile Number",
+            "placeholder": "Enter your mobile number",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "email",
+            "label": "Email Address",
+            "placeholder": "Enter your email address",
+            "type": "email",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "college",
+            "label": "College/School",
+            "placeholder": "Enter your college or school",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "courseYear",
+            "label": "Course & Year",
+            "placeholder": "Enter your course and year",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "city",
+            "label": "City",
+            "placeholder": "Enter your city",
+            "type": "text",
+            "required": true,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "portfolio",
+            "label": "Portfolio URL",
+            "placeholder": "Enter portfolio URL",
+            "type": "url",
+            "required": false,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "github",
+            "label": "GitHub URL",
+            "placeholder": "Enter GitHub URL",
+            "type": "url",
+            "required": false,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          },
+          {
+            "id": "instagram",
+            "label": "Instagram URL",
+            "placeholder": "Enter Instagram URL",
+            "type": "url",
+            "required": false,
+            "enabled": true,
+            "options": [],
+            "defaultValue": ""
+          }
+        ],
+        "fullDescription": "",
+        "gallery": [],
+        "gifts": [],
+        "googleMapsLink": "",
+        "promoVideoUrl": "",
+        "publishedAt": "2026-05-29T04:50:28.501Z",
+        "referralCodes": [],
+        "rewardPrizes": [],
+        "seatsAvailable": null,
+        "shortDescription": "",
+        "subtitle": "",
+        "tagline": "",
+        "themeColor": "#D4AF37",
+        "thumbnailImage": "",
+        "timings": "",
+        "updatedByAdminEmail": "",
+        "registrationsCount": 170
+      }
+    ],
+    "pagination": {
+      "page": 1,
+      "limit": 20,
+      "total": 3,
+      "totalPages": 1
+    }
+  },
+  "telemetry": {
+    "ok": true,
+    "activeNodes": [
+      {
+        "instanceId": "sess_b5e132fe8f764a59be5c314503c42418",
+        "nodeId": "admin:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "4a9e43dc8cfbafde8685817cda60c907be34f14e3305554a4a0f358fd5c41724",
+        "cpuBrand": "Unknown Browser on Unknown OS",
+        "gatewayIp": "::1",
+        "runtimeEngine": "node",
+        "startupTime": "2026-06-14T15:44:19.475Z",
+        "lastTouch": "2026-06-14T15:44:19.475Z",
+        "ttlTime": "2026-06-21T15:44:19.475Z",
+        "halted": false,
+        "haltReason": "",
+        "haltedTime": null,
+        "metadata": {
+          "browser": "Unknown Browser",
+          "platform": "Unknown OS",
+          "operatorName": "System Admin"
+        }
+      },
+      {
+        "instanceId": "sess_188a58f1607f489eaf82675eada8ec01",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+        "cpuBrand": "Chrome on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "startupTime": "2026-06-14T14:54:22.063Z",
+        "lastTouch": "2026-06-14T15:39:49.107Z",
+        "ttlTime": "2026-06-21T14:54:22.063Z",
+        "halted": false,
+        "haltReason": "",
+        "haltedTime": null,
+        "metadata": {
+          "browser": "Chrome",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      }
+    ],
+    "inactiveNodes": [
+      {
+        "instanceId": "sess_65e63355be8a4cc58bc17afc15b8d7fb",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+        "cpuBrand": "Chrome on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "startupTime": "2026-06-14T10:57:02.366Z",
+        "lastTouch": "2026-06-14T15:01:55.837Z",
+        "ttlTime": "2026-06-21T10:57:02.366Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-14T15:01:55.837Z",
+        "metadata": {
+          "browser": "Chrome",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_e400fbefebfd4ff384fb9ea155680730",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+        "cpuBrand": "Chrome on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "startupTime": "2026-06-13T12:43:49.116Z",
+        "lastTouch": "2026-06-14T10:56:30.033Z",
+        "ttlTime": "2026-06-20T12:43:49.116Z",
+        "halted": true,
+        "haltReason": "revoked_by_admin",
+        "haltedTime": "2026-06-14T10:56:30.033Z",
+        "metadata": {
+          "browser": "Chrome",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_8854276df3bf4c328bebd97289255c98",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+        "cpuBrand": "Chrome on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "startupTime": "2026-06-12T15:22:50.280Z",
+        "lastTouch": "2026-06-13T12:53:47.670Z",
+        "ttlTime": "2026-06-19T15:22:50.280Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-13T12:53:47.670Z",
+        "metadata": {
+          "browser": "Chrome",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_6b536ea9a37242529ba860e017148b98",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+        "cpuBrand": "Chrome on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "startupTime": "2026-06-13T12:10:52.567Z",
+        "lastTouch": "2026-06-13T12:53:47.664Z",
+        "ttlTime": "2026-06-20T12:10:52.567Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-13T12:53:47.664Z",
+        "metadata": {
+          "browser": "Chrome",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_4fef814b237449e89af146ac96c08d97",
+        "nodeId": "admin:ADMIN-2026",
+        "nodeType": "primary",
+        "checksum": "e96274d993e757b311a08e3ef1466d4b56b2f6ad38fb173103ba4720ce88749e",
+        "cpuBrand": "Chrome on Android",
+        "gatewayIp": "152.59.88.183",
+        "runtimeEngine": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+        "startupTime": "2026-06-13T04:56:25.641Z",
+        "lastTouch": "2026-06-13T12:53:47.663Z",
+        "ttlTime": "2026-06-20T04:56:25.641Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-13T12:53:47.663Z",
+        "metadata": {
+          "browser": "Chrome",
+          "platform": "Android",
+          "operatorName": "Sikhiya"
+        }
+      },
+      {
+        "instanceId": "sess_d98b315620e949c889e72d50b505aeb0",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+        "cpuBrand": "Chrome on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "startupTime": "2026-06-13T12:19:10.427Z",
+        "lastTouch": "2026-06-13T12:53:47.661Z",
+        "ttlTime": "2026-06-20T12:19:10.427Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-13T12:53:47.661Z",
+        "metadata": {
+          "browser": "Chrome",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_3a997542383d4acf9a5728a609dd3b6e",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+        "cpuBrand": "Chrome on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "startupTime": "2026-06-12T13:41:12.598Z",
+        "lastTouch": "2026-06-12T13:42:33.410Z",
+        "ttlTime": "2026-06-19T13:41:12.598Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T13:42:33.410Z",
+        "metadata": {
+          "browser": "Chrome",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_4727831ccb00470a9f933116e01d1fcd",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+        "cpuBrand": "Unknown Browser on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "startupTime": "2026-06-12T07:10:12.073Z",
+        "lastTouch": "2026-06-12T07:56:40.380Z",
+        "ttlTime": "2026-06-19T07:10:12.073Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:40.380Z",
+        "metadata": {
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_53d028264c034d1da4919f9b786be898",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+        "cpuBrand": "Chrome on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "startupTime": "2026-06-12T07:12:41.613Z",
+        "lastTouch": "2026-06-12T07:56:40.128Z",
+        "ttlTime": "2026-06-19T07:12:41.613Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:40.128Z",
+        "metadata": {
+          "browser": "Chrome",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_f5a5687c1ede47d0b87dc3583551d537",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+        "cpuBrand": "Unknown Browser on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "startupTime": "2026-06-12T07:13:33.601Z",
+        "lastTouch": "2026-06-12T07:56:39.893Z",
+        "ttlTime": "2026-06-19T07:13:33.601Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:39.893Z",
+        "metadata": {
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_be059c64c4d94fd58ae5df35bb35cd55",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+        "cpuBrand": "Unknown Browser on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "startupTime": "2026-06-12T07:13:41.679Z",
+        "lastTouch": "2026-06-12T07:56:39.648Z",
+        "ttlTime": "2026-06-19T07:13:41.679Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:39.648Z",
+        "metadata": {
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_8f8668a3f4944e6388a22e44fdf557bc",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+        "cpuBrand": "Unknown Browser on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "startupTime": "2026-06-12T07:15:37.442Z",
+        "lastTouch": "2026-06-12T07:56:39.399Z",
+        "ttlTime": "2026-06-19T07:15:37.442Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:39.399Z",
+        "metadata": {
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_70253e75651c4403a42b1573eec1524b",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+        "cpuBrand": "Unknown Browser on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "startupTime": "2026-06-12T07:16:02.390Z",
+        "lastTouch": "2026-06-12T07:56:39.168Z",
+        "ttlTime": "2026-06-19T07:16:02.390Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:39.168Z",
+        "metadata": {
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_55730d6561744c5896a165a7e5a6bedf",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+        "cpuBrand": "Unknown Browser on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "startupTime": "2026-06-12T07:16:13.158Z",
+        "lastTouch": "2026-06-12T07:56:38.933Z",
+        "ttlTime": "2026-06-19T07:16:13.158Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:38.933Z",
+        "metadata": {
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_29e4a64e370a435f9d304a58845baeb3",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+        "cpuBrand": "Unknown Browser on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "startupTime": "2026-06-12T07:16:30.022Z",
+        "lastTouch": "2026-06-12T07:56:38.699Z",
+        "ttlTime": "2026-06-19T07:16:30.022Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:38.699Z",
+        "metadata": {
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_5ab40a05d2e244f1b8878d5b559ea999",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+        "cpuBrand": "Unknown Browser on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "startupTime": "2026-06-12T07:16:39.549Z",
+        "lastTouch": "2026-06-12T07:56:38.448Z",
+        "ttlTime": "2026-06-19T07:16:39.549Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:38.448Z",
+        "metadata": {
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_813c2386619e47d1a4377fce2f4bf40e",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+        "cpuBrand": "Unknown Browser on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "startupTime": "2026-06-12T07:18:54.935Z",
+        "lastTouch": "2026-06-12T07:56:38.203Z",
+        "ttlTime": "2026-06-19T07:18:54.935Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:38.203Z",
+        "metadata": {
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_fbd53337f8344ca8b9eefff94b53c79e",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "dd92b6d70923fcd56beed4f871c759246536f4d9e346eb68af2522f4e97ed230",
+        "cpuBrand": "Unknown Browser on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8655",
+        "startupTime": "2026-06-12T07:21:07.947Z",
+        "lastTouch": "2026-06-12T07:56:37.968Z",
+        "ttlTime": "2026-06-19T07:21:07.947Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:37.968Z",
+        "metadata": {
+          "browser": "Unknown Browser",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_d0e797a544f34e0a8fcd48e9dd232c83",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "aa8236319d1aa48222b5544b9e9c0be00360c3d0b4e81806baa671fd69cf7024",
+        "cpuBrand": "Unknown Browser on Unknown OS",
+        "gatewayIp": "::1",
+        "runtimeEngine": "",
+        "startupTime": "2026-06-12T07:23:01.514Z",
+        "lastTouch": "2026-06-12T07:56:37.700Z",
+        "ttlTime": "2026-06-19T07:23:01.514Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:37.700Z",
+        "metadata": {
+          "browser": "Unknown Browser",
+          "platform": "Unknown OS",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_bab374ebe5f64df4b9f1fd548aefe10a",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "aa8236319d1aa48222b5544b9e9c0be00360c3d0b4e81806baa671fd69cf7024",
+        "cpuBrand": "Unknown Browser on Unknown OS",
+        "gatewayIp": "::1",
+        "runtimeEngine": "",
+        "startupTime": "2026-06-12T07:23:17.660Z",
+        "lastTouch": "2026-06-12T07:56:37.448Z",
+        "ttlTime": "2026-06-19T07:23:17.660Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:37.448Z",
+        "metadata": {
+          "browser": "Unknown Browser",
+          "platform": "Unknown OS",
+          "operatorName": "Super Admin"
+        }
+      },
+      {
+        "instanceId": "sess_dc185ba4294d4736b65eef3b19867b96",
+        "nodeId": "employee:ADMIN-2026",
+        "nodeType": "worker",
+        "checksum": "f77e2337a65fded2520b210da0cbf3f303d72c9d91cc7f7411db41b32fcec9e6",
+        "cpuBrand": "Chrome on Windows",
+        "gatewayIp": "::1",
+        "runtimeEngine": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "startupTime": "2026-06-12T07:14:16.480Z",
+        "lastTouch": "2026-06-12T07:56:37.139Z",
+        "ttlTime": "2026-06-19T07:14:16.480Z",
+        "halted": true,
+        "haltReason": "Global administrator reset",
+        "haltedTime": "2026-06-12T07:56:37.139Z",
+        "metadata": {
+          "browser": "Chrome",
+          "platform": "Windows",
+          "operatorName": "Super Admin"
+        }
+      }
+    ]
+  }
+}
