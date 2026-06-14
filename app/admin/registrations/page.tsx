@@ -5,6 +5,12 @@ import { useQuery } from '@tanstack/react-query';
 import { motion } from 'framer-motion';
 import { getRegistrations, approveRegistration, rejectRegistration, checkInRegistration, getEvents } from '@/lib/api-client';
 import { Download, ScanLine, Search } from 'lucide-react';
+import { GlassCard } from '@/components/glass/GlassCard';
+import { GlassButton } from '@/components/glass/GlassButton';
+import { GlassInput } from '@/components/glass/GlassInput';
+import { GlassEmptyState } from '@/components/GlassEmptyState';
+import { SkeletonTable } from '@/components/skeletons/SkeletonTable';
+import { PermissionGate } from '@/components/PermissionGate';
 
 export default function RegistrationsPage() {
   const [page, setPage] = useState(1);

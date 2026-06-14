@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[58903,["/_next/static/chunks/089s2v6k-f8pt.js","/_next/static/chunks/0n4z.7yu76je-.js","/_next/static/chunks/0kc.cet_.1b9x.js","/_next/static/chunks/0getnx--xxdy9.js"],"PermissionGate"]
+3:I[71546,["/_next/static/chunks/089s2v6k-f8pt.js","/_next/static/chunks/0n4z.7yu76je-.js","/_next/static/chunks/0kc.cet_.1b9x.js","/_next/static/chunks/0getnx--xxdy9.js"],"AdminLayout"]
+4:I[39756,["/_next/static/chunks/089s2v6k-f8pt.js","/_next/static/chunks/0n4z.7yu76je-.js"],"default"]
+5:I[37457,["/_next/static/chunks/089s2v6k-f8pt.js","/_next/static/chunks/0n4z.7yu76je-.js"],"default"]
+0:{"rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0kc.cet_.1b9x.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0getnx--xxdy9.js","async":true}]],["$","$L2",null,{"permissions":"dashboard.view","fallback":["$","div",null,{"className":"flex items-center justify-center min-h-screen","children":"Access Denied"}],"children":["$","$L3",null,{"children":["$","div",null,{"className":"flex-1 overflow-auto","children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jvx1if2Ce4kdKieKMDi0K"}
